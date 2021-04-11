@@ -1,6 +1,6 @@
 from typing import List
 
-
+# dp
 def minPathSum(grid: List[List[int]]) -> int:
     m = len(grid)
     n = len(grid[0])
