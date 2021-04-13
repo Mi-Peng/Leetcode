@@ -1,26 +1,4 @@
 # NoteBook
 ---
-<span id="t1">Hello World</span>
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
 
-[test](#t1)
+<span id="225">225.用队列实现栈</span>
